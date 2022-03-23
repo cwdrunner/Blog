@@ -1,2 +1,2 @@
-# Blog
-Stuff that needs to get out there
+# Bill's Blog
+Stuff that I think needs to get out there
